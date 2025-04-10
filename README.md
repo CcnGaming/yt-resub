@@ -3,7 +3,7 @@ This is a python script to import all your youtube subs from a Google Takeout ba
 # How to use
 1. Download the Tool:
 
-Download the yt-resub.exe file.
+1. Download the yt-resub.exe file.
 2. Get Your YouTube Data API v3 Key:
 
 Go to the Google Cloud Console: Open your web browser and go to console.cloud.google.com.
