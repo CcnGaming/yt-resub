@@ -1,8 +1,6 @@
 # What is this
 This is a python script to import all your YouTube subs from a Google Takeout backup. This is meant for if you have 2 accounts and you want to move your YouTube data or if you lost accces to your account
 # How to use
-1. Download the Tool:
-
 1. Download the yt-resub.exe file.
 2. Get Your YouTube Data API v3 Key:
 
