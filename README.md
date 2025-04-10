@@ -29,7 +29,7 @@ Press Enter.
 
 The tool will process the CSV file and resubscribe to your channels.
 It will display messages indicating the progress.
-#Troubleshooting:
+# Troubleshooting:
 
 Invalid API Key: If you get an error about an invalid API key, double-check that you copied and pasted it correctly.
 Invalid File Path: If you get an error about an invalid file path, ensure that you entered the full path to the subscriptions.csv file. A common mistake is providing the folder path instead of the file path.
